@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.prisma": "prisma",
+    "stdio.h": "c",
+    "stdlib.h": "c"
+  }
+}
