@@ -136,5 +136,6 @@ int main() {
 
   printf("%d", validSolution(board));
 
+  free(board);
   return 0;
 }
