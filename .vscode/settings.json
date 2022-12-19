@@ -1,6 +1,7 @@
 {
   "files.associations": {
     "*.prisma": "prisma",
-    "cstdlib": "c"
+    "cstdlib": "c",
+    "stdio.h": "c"
   }
 }
